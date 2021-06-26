@@ -57,7 +57,7 @@ waves over Mexico and the US in the CESM Large Ensemble. In preparation. -->
 ```García Martínez, I. M.,``` Bollasina, M. A., and Undorf, S. (2020). Strong large-scale climate
 response to North American sulphate aerosols in CESM. Environmental Research Letters.
 
-**García Martínez, I. M.** and Bollasina. M. A. (2020). Sub-monthly evolution of the Caribbean
+```García Martínez, I. M.``` and Bollasina. M. A. (2020). Sub-monthly evolution of the Caribbean
 low-level jet and its relationship with regional precipitation and atmospheric circulation.
 Climate Dynamics.
 
