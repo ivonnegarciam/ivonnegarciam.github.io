@@ -1,15 +1,15 @@
 # Site settings
-title: Pudhina
+title: Ivonne García Martínez
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  Climate scientist and nature lover 
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ivonnegarciam.github.io/" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
+  fullname: Ivonne García Martínez
+  github: https://github.com/ivonnegarciam
+  #linkedin: linkedin
   email: example@email.com
 
 
