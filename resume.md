@@ -15,20 +15,19 @@ I'm an atmospheric and oceanic scientist. Particularly, I am interested in under
 ### EDUCATION
 
 The University of Edinburgh, UK <span style="float: right; ">2016-2020</span>  
-**PhD in Atmospheric Sciences**  
+**PhD in Atmospheric and Environmental Sciences**  
 Thesis: Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing
-Advisor: Dr. Massimo Bollasina. 
+<br>Advisor: Dr. Massimo Bollasina. 
  
 Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Mexico. <span style="float: right; ">2012-2015</span>  
 **MSc in Physical Oceanography**  
 Thesis: Ocean-atmosphere variability related with the midsummer drought in the CFSR reanalysis.
-Advisor: Dr. Julio Sheinbaum Pardo.
+<br>Advisor: Dr. Julio Sheinbaum Pardo.
 
 Universidad Veracruzana <span style="float: right; ">2007-2011</span>  
-**Course**  
-B. Sc. in Atmospheric Sciences.
-Graduated by high GPA.
-Advisor: Dr. Adalberto Tejeda Martínez.
+**BSc in Atmospheric Sciences**  
+<br>Graduated by high GPA.
+<br>Advisor: Dr. Adalberto Tejeda Martínez.
 
 ### SKILLS
 ``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
