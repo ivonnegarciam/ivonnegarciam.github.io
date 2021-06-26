@@ -1,5 +1,5 @@
 # Site settings
-title: Ivonne García Martínez
+title: Ivonne
 description: >
   Climate scientist and nature lover 
 
@@ -8,9 +8,9 @@ url: "https://ivonnegarciam.github.io/" # the base hostname & protocol for your 
 
 author:
   fullname: Ivonne García Martínez
-  github: https://github.com/ivonnegarciam
-  #linkedin: linkedin
-  email: example@email.com
+  github: ivonnegarciam
+  orcid: 0000-0002-5769-7377
+  email: ivonne.m.garcia.martinez@gmail.com
 
 
 # Syntax highlighting
