@@ -2,10 +2,33 @@
 layout: page
 title: Résumé
 subtitle: An awesome person
+published: true
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
+
+### RESEARCH INTERESTS
+
+I'm an atmospheric and oceanic scientist. Particularly, I am interested in understanding the physical mechanisms of climate variation on the Mexican and Central American climate.  My latest research focuses on climate dynamics, tropical meteorology and ocean-atmosphere interactions. 
+
+### EDUCATION
+
+The University of Edinburgh, UK <span style="float: right; ">2016-2020</span>  
+**PhD in Atmospheric Sciences**  
+Thesis: Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing
+Advisor: Dr. Massimo Bollasina. 
+ 
+Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Mexico. <span style="float: right; ">2012-2015</span>  
+**MSc in Physical Oceanography**  
+Thesis: Ocean-atmosphere variability related with the midsummer drought in the CFSR reanalysis.
+Advisor: Dr. Julio Sheinbaum Pardo.
+
+Universidad Veracruzana <span style="float: right; ">2007-2011</span>  
+**Course**  
+B. Sc. in Atmospheric Sciences.
+Graduated by high GPA.
+Advisor: Dr. Adalberto Tejeda Martínez.
 
 ### SKILLS
 ``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
@@ -20,19 +43,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
 
 ### EXPERIENCE
 
@@ -50,11 +61,3 @@ _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspen
 Technologies used  
 
 
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
