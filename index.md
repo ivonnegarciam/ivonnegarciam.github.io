@@ -1,5 +1,5 @@
 ---
-layout: Pudhina
+layout: default
 title: ¡Hola!
 subtitle: My name is Ivonne
 sitemap:
