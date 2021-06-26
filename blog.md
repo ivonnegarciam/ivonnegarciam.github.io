@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Blog
+title: Blog_delete
 subtitle: Select ramblings of Pudhina
+published: true
 ---
 
 <div>
