@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: ¡Hola!
+subtitle: My name is Ivonne
 sitemap:
   priority: 0.9
 ---
