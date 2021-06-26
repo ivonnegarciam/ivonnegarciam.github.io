@@ -19,7 +19,7 @@ I'm an atmospheric and oceanic scientist. Particularly, I am interested in under
 Thesis: Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing
 <br>Advisor: Dr. Massimo Bollasina. 
  
-```Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), México.``` <span style="float: right; ">2012-2015</span>  
+```CICESE, México.``` <span style="float: right; ">2012-2015</span>  
 **MSc in Physical Oceanography**  
 Thesis: Ocean-atmosphere variability related with the midsummer drought in the CFSR reanalysis.
 <br>Advisor: Dr. Julio Sheinbaum Pardo.
@@ -31,24 +31,23 @@ Graduated by high GPA.
 
 ### ACADEMIC EMPLOYMENT
 
-```Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Mex.``` <span style="float: right; ">2021-present</span>  
-Postdoctoral researcher at the Department of Physical Oceanography.  
+```Postdoctoral researcher - CICESE, México.``` <span style="float: right; ">2021-present</span>  Department of Physical Oceanography.  
 
 
-```Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), México.``` <span style="float: right; ">2015-2016</span>  
-Research assistant at the Department of Physical Oceanography. 
+```Research assistant - CICESE, México.``` <span style="float: right; ">2015-2016</span>  
+ Department of Physical Oceanography. 
 
 
-```Universidad Veracruzana, México.``` <span style="float: right; ">2011-2012</span>  
-Research assistant at the Applied Climatology Group.  
+```Research assistant - Universidad Veracruzana, México.``` <span style="float: right; ">2011-2012</span>  
+ Applied Climatology Group.  
 
 
 ### SKILLS
 Programming: python, matlab, bash, NCO, CDO, GraDs
-Version control: Git
-Editing: LaTeX
-Learning: WRF and high performance computing
-Languages: English (Fluent), Spanish (Mother tongue), Portuguese (Basic)
+<br>Version control: Git
+<br>Editing: LaTeX
+<br>Learning: WRF and high performance computing
+<br>Languages: English (Fluent), Spanish (Mother tongue), Portuguese (Basic)
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
