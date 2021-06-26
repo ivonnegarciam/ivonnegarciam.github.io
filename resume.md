@@ -19,15 +19,26 @@ The University of Edinburgh, UK <span style="float: right; ">2016-2020</span>
 Thesis: Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing
 <br>Advisor: Dr. Massimo Bollasina. 
  
-Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Mexico. <span style="float: right; ">2012-2015</span>  
+Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), México. <span style="float: right; ">2012-2015</span>  
 **MSc in Physical Oceanography**  
 Thesis: Ocean-atmosphere variability related with the midsummer drought in the CFSR reanalysis.
 <br>Advisor: Dr. Julio Sheinbaum Pardo.
 
-Universidad Veracruzana <span style="float: right; ">2007-2011</span>  
+Universidad Veracruzana, México <span style="float: right; ">2007-2011</span>  
 **BSc in Atmospheric Sciences**  
 <br>Graduated by high GPA.
 <br>Advisor: Dr. Adalberto Tejeda Martínez.
+
+### ACADEMIC EMPLOYMENT
+
+Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), México. <span style="float: right; ">2015-2016</span>  
+**Department of Physical Oceanography**  
+Research assistant.
+
+Universidad Veracruzana, México <span style="float: right; ">2011-2012</span>  
+**Applied Climatology Group**  
+Research assistant.
+
 
 ### SKILLS
 ``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
