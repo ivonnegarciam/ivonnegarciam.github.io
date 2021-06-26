@@ -54,12 +54,12 @@ Programming: python, matlab, bash, NCO, CDO, GraDs
 <!--García Martínez, I. M. and Bollasina, M. A. Anthropogenic influence on three types of heat
 waves over Mexico and the US in the CESM Large Ensemble. In preparation. -->
 
-```García Martínez, I. M.``` and Bollasina. M. A. (2020). Sub-monthly evolution of the Caribbean
-low-level jet and its relationship with regional precipitation and atmospheric circulation.
-Climate Dynamics.
-
 ```García Martínez, I. M.,``` Bollasina, M. A., and Undorf, S. (2020). Strong large-scale climate
 response to North American sulphate aerosols in CESM. Environmental Research Letters.
+
+**García Martínez, I. M.** and Bollasina. M. A. (2020). Sub-monthly evolution of the Caribbean
+low-level jet and its relationship with regional precipitation and atmospheric circulation.
+Climate Dynamics.
 
 Tejeda Martínez, A., Fitzjarrald, D. R., Pérez Méndez, M., Domínguez Eusebio, C. A., Álvarez Pérez, J. A., Baruch Vera, A., ```García Martínez, I.```, Quiroz Amoroso, J. N., Limón Ramírez, A. R. (2020). Ciclos diurnos y circulación local. Un laboratorio natural del clima: la interacción costa-montaña en el centro del Golfo de México, 46-91. Editors: Tejeda Martínez, A., Pérez Méndez, M., Méndez Pérez, I. R. Universidad Veracruzana.
 
