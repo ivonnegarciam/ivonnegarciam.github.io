@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Pudhina
 title: ¡Hola!
 subtitle: My name is Ivonne
 sitemap:
