@@ -11,14 +11,6 @@ author:
   github: ivonnegarciam
   #orcid: 0000-0002-5769-7377
   email: ivonne.m.garcia.martinez@gmail.com
-  
-navigation:
-  - title: About me
-    url: /resume
-  - title: Research
-    url: /research
-  - title: /science communication
-    url: /sciencecommunication
 
 # Syntax highlighting
 highlightstyle: 'agate'
