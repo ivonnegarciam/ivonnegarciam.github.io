@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ¡Hola!
 subtitle: My name is Ivonne
 sitemap:
