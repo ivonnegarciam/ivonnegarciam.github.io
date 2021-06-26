@@ -31,7 +31,7 @@ published: true
     </url>
     {% endunless %}
   {% endfor %}
--->
+
   {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" %}
     <url>
@@ -56,4 +56,5 @@ published: true
     </url>
     {% endunless %}
   {% endfor %}
+-->
 </urlset>
