@@ -26,26 +26,29 @@ Thesis: Ocean-atmosphere variability related with the midsummer drought in the C
 
 ```Universidad Veracruzana, México.``` <span style="float: right; ">2007-2011</span>  
 **BSc in Atmospheric Sciences**  
-<br>Graduated by high GPA.
+Graduated by high GPA.
 <br>Advisor: Dr. Adalberto Tejeda Martínez.
 
 ### ACADEMIC EMPLOYMENT
 
-```Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), México.``` <span style="float: right; ">2021-present</span>  
-Department of Physical Oceanography.  
-<br>Postdoctoral researcher.
+```Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), Mex.``` <span style="float: right; ">2021-present</span>  
+Postdoctoral researcher at the Department of Physical Oceanography.  
+
 
 ```Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), México.``` <span style="float: right; ">2015-2016</span>  
-Department of Physical Oceanography. 
-<br>Research assistant.
+Research assistant at the Department of Physical Oceanography. 
+
 
 ```Universidad Veracruzana, México.``` <span style="float: right; ">2011-2012</span>  
-Applied Climatology Group.  
-<br>Research assistant.
+Research assistant at the Applied Climatology Group.  
 
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+Programming: python, matlab, bash, NCO, CDO, GraDs
+Version control: Git
+Editing: LaTeX
+Learning: WRF and high performance computing
+Languages: English (Fluent), Spanish (Mother tongue), Portuguese (Basic)
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
