@@ -8,11 +8,11 @@ published: true
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### RESEARCH INTERESTS
+## RESEARCH INTERESTS
 
 I'm an atmospheric and oceanic scientist. Particularly, I am interested in understanding the physical mechanisms of climate variation on the Mexican and Central American climate.  My latest research focuses on climate dynamics, tropical meteorology and ocean-atmosphere interactions.
 
-### EDUCATION
+## EDUCATION
 
 ```The University of Edinburgh, UK. ```<span style="float: right; ">2016-2020</span>  
 **PhD in Atmospheric and Environmental Sciences**  
@@ -29,7 +29,7 @@ I'm an atmospheric and oceanic scientist. Particularly, I am interested in under
 Graduated by high GPA.
 <br>```Advisor:``` Dr. Adalberto Tejeda Martínez.
 
-### ACADEMIC EMPLOYMENT
+## ACADEMIC EMPLOYMENT
 
 ```Postdoctoral researcher - CICESE, México.``` <span style="float: right; ">2021-    </span>  <br>Department of Physical Oceanography.  
 
@@ -42,16 +42,18 @@ Graduated by high GPA.
  Applied Climatology Group.  
 
 
-### SKILLS
+## SKILLS
 Programming: python, matlab, bash, NCO, CDO, GraDs
 <br>Version control: Git
 <br>Editing: LaTeX
 <br>Learning: WRF and high performance computing
 <br>Languages: English (Fluent), Spanish (Mother tongue), Portuguese (Basic)
 
-### PUBLICATIONS
+## PUBLICATIONS
 
-## PEER-REVIEWED
+<!--García Martínez, I. M. and Bollasina, M. A. Anthropogenic influence on three types of heat
+waves over Mexico and the US in the CESM Large Ensemble. In preparation. -->
+
 ```García Martínez, I. M.``` and Bollasina. M. A. (2020). Sub-monthly evolution of the Caribbean
 low-level jet and its relationship with regional precipitation and atmospheric circulation.
 Climate Dynamics.
@@ -59,17 +61,7 @@ Climate Dynamics.
 ```García Martínez, I. M.,``` Bollasina, M. A., and Undorf, S. (2020). Strong large-scale climate
 response to North American sulphate aerosols in CESM. Environmental Research Letters.
 
-<!--García Martínez, I. M. and Bollasina, M. A. Anthropogenic influence on three types of heat
-waves over Mexico and the US in the CESM Large Ensemble. In preparation. -->
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-## BOOK CHAPTERS
-Tejeda Martínez, A., Fitzjarrald, D. R., Pérez Méndez, M., Domínguez Eusebio, C. A., Álvarez Pérez, J. A., Baruch Vera, A., ```García Martínez, I.```, Quiroz Amoroso, J. N., Limón Ramírez, A. R. 
-
-CICLOS DIURNOS
-Y CIRCULACIÓN LOCAL
+Tejeda Martínez, A., Fitzjarrald, D. R., Pérez Méndez, M., Domínguez Eusebio, C. A., Álvarez Pérez, J. A., Baruch Vera, A., ```García Martínez, I.```, Quiroz Amoroso, J. N., Limón Ramírez, A. R. (2020). Ciclos diurnos y circulación local. Un laboratorio natural del clima: la interacción costa-montaña en el centro del Golfo de México, 46-91. Editors: Tejeda Martínez, A., Pérez Méndez, M., Méndez Pérez, I. R. Universidad Veracruzana.
 
 Tejeda Martínez, A., ```García-Martínez, I. M.```, Méndez-Pérez, I. R., Miranda-Miranda, U., &
 López-Méndez, J. V. (2015). Radiación solar en México (Solar radiation in Mexico). Prontuario
@@ -84,19 +76,11 @@ Universidad Veracruzana, Colima.
 
 
 
-### EXPERIENCE
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
+<!-- ## EXPERIENCE
  
 Title - **Comapany** <span style="float: right; ">Duration</span>  
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Technologies used -->  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
 
 
