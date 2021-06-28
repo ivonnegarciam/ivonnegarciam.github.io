@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: An awesome person
+subtitle: A bit about my (academic) self
 published: true
 ---
 
