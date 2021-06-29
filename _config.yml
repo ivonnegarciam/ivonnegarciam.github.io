@@ -1,7 +1,7 @@
 # Site settings
 title: Home
 description: >
-  Climate scientist, coding enthusiast and nature lover 
+  Climate and ocean scientist, coding enthusiast and nature lover 
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ivonnegarciam.github.io/" # the base hostname & protocol for your site
