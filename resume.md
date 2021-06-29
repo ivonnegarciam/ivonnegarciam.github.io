@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: Ivonne García Martínez <br> - - - A bit about my (academic) self - - - 
+subtitle: Dr Ivonne García Martínez <br> - - - A bit about my [academic] self - - - 
 published: true
 ---
 
