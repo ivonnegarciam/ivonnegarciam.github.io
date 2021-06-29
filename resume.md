@@ -59,25 +59,16 @@ Programming: python, matlab, bash, NCO, CDO, GraDs
 <!--García Martínez, I. M. and Bollasina, M. A. Anthropogenic influence on three types of heat
 waves over Mexico and the US in the CESM Large Ensemble. In preparation. -->
 
-```García Martínez, I. M.,``` Bollasina, M. A., and Undorf, S. (2020). Strong large-scale climate
-response to North American sulphate aerosols in CESM. Environmental Research Letters.
+```García Martínez, I. M.,``` Bollasina, M. A., and Undorf, S. (2020). [Strong large-scale climate
+response to North American sulphate aerosols in CESM](https://iopscience.iop.org/article/10.1088/1748-9326/abbe45). Environmental Research Letters.
 
-```García Martínez, I. M.``` and Bollasina. M. A. (2020). Sub-monthly evolution of the Caribbean
-low-level jet and its relationship with regional precipitation and atmospheric circulation.
-Climate Dynamics.
+```García Martínez, I. M.``` and Bollasina. M. A. (2020). [Sub-monthly evolution of the Caribbean low-level jet and its relationship with regional precipitation and atmospheric circulation](https://link.springer.com/article/10.1007/s00382-020-05237-y). Climate Dynamics.
 
-Tejeda Martínez, A., Fitzjarrald, D. R., Pérez Méndez, M., Domínguez Eusebio, C. A., Álvarez Pérez, J. A., Baruch Vera, A., ```García Martínez, I.```, Quiroz Amoroso, J. N., Limón Ramírez, A. R. (2020). Ciclos diurnos y circulación local. Un laboratorio natural del clima: la interacción costa-montaña en el centro del Golfo de México, 46-91. Editors: Tejeda Martínez, A., Pérez Méndez, M., Méndez Pérez, I. R. Universidad Veracruzana.
+Tejeda Martínez, A., Fitzjarrald, D. R., Pérez Méndez, M., Domínguez Eusebio, C. A., Álvarez Pérez, J. A., Baruch Vera, A., ```García Martínez, I.```, Quiroz Amoroso, J. N., Limón Ramírez, A. R. (2020). Ciclos diurnos y circulación local. [Un laboratorio natural del clima: la interacción costa-montaña en el centro del Golfo de México, 46-91](http://libros.uv.mx/index.php/UV/catalog/book/QC021). Editors: Tejeda Martínez, A., Pérez Méndez, M., Méndez Pérez, I. R. Universidad Veracruzana.
 
-Tejeda Martínez, A., ```García-Martínez, I. M.```, Méndez-Pérez, I. R., Miranda-Miranda, U., &
-López-Méndez, J. V. (2015). Radiación solar en México (Solar radiation in Mexico). Prontuario
-solar de México, 51-68. Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de
-Colima-Universidad Veracruzana, Colima.
+Tejeda Martínez, A., ```García-Martínez, I. M.```, Méndez-Pérez, I. R., Miranda-Miranda, U., & López-Méndez, J. V. (2015). Radiación solar en México (Solar radiation in Mexico). [Prontuario solar de México, 51-68](http://ww.ucol.mx/content/publicacionesenlinea/adjuntos/Prontuario-solar-de-Mexico-(noviembre-de-2015)_6.pdf). Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-Universidad Veracruzana, Colima.
 
-Tejeda Martínez, A., ```García-Martínez, I. M.```, Gómez-Azpeitia, G., Méndez-Pérez, I. R., &
-González-Viveros, P.J. (2015). Procedimientos simples para la estimación de radiación Solar en
-México (Simple procedures for the estimation of solar radiation in Mexico). Prontuario solar de
-México, 103-112. Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-
-Universidad Veracruzana, Colima.
+Tejeda Martínez, A., ```García-Martínez, I. M.```, Gómez-Azpeitia, G., Méndez-Pérez, I. R., & González-Viveros, P.J. (2015). Procedimientos simples para la estimación de radiación Solar en México (Simple procedures for the estimation of solar radiation in Mexico). [Prontuario solar de México, 103-112](http://ww.ucol.mx/content/publicacionesenlinea/adjuntos/Prontuario-solar-de-Mexico-(noviembre-de-2015)_6.pdf). Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-Universidad Veracruzana, Colima.
 
 
 
