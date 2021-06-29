@@ -22,17 +22,17 @@ I'm a climate scientist particularly interested in understanding the physical me
 ```The University of Edinburgh, UK. ```<span style="float: right; ">2016-2020</span>  
 **PhD in Atmospheric and Environmental Sciences**  
 ```Thesis:``` Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing.
-<br>```Advisor:``` Dr. Massimo Bollasina. 
+<br>```Advisor:``` Dr Massimo Bollasina. 
  
 ```CICESE, México.``` <span style="float: right; ">2012-2015</span>  
 **MSc in Physical Oceanography**  
 ```Thesis:``` Ocean-atmosphere variability related with the midsummer drought in the CFSR reanalysis.
-<br>```Advisor:``` Dr. Julio Sheinbaum Pardo.
+<br>```Advisor:``` Dr Julio Sheinbaum Pardo.
 
 ```Universidad Veracruzana, México.``` <span style="float: right; ">2007-2011</span>  
 **BSc in Atmospheric Sciences**  
 Graduated by high GPA.
-<br>```Advisor:``` Dr. Adalberto Tejeda Martínez.
+<br>```Advisor:``` Dr Adalberto Tejeda Martínez.
 
 ## ACADEMIC EMPLOYMENT
 
