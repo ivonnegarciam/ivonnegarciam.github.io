@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¡Hola!
-subtitle: Welcome to my virtual cosy corner :)
+subtitle: I'm Ivonne García Martínez. Welcome to my virtual cosy corner :)
 sitemap:
   priority: 0.9
 published: true
