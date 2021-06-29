@@ -8,9 +8,14 @@ published: true
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-## RESEARCH INTERESTS
+I'm a climate scientist particularly interested in understanding the physical mechanisms of recent and future climate variation in Mexico, North and Central America. I aim at carrying out comprehensive studies by using a range of observational and remote-sensing datasets and modelling experiments of various complexities with a strong theoretical component.
 
-I'm an atmospheric and oceanic scientist. Particularly, I am interested in understanding the physical mechanisms of climate variation on the Mexican and Central American climate.  My latest research focuses on climate dynamics, tropical meteorology and ocean-atmosphere interactions.
+## RESEARCH INTERESTS
+- Dynamics of low-level jets
+- Ocean-atmosphere interactions 
+- Predictability of regional rainfall and temperature extreme events
+- Ongoing and future climate responses to changes in anthropogenic forcing (e.g. aerosols and GHG emissions)
+- Numerical modelling
 
 ## EDUCATION
 
@@ -47,7 +52,7 @@ Programming: python, matlab, bash, NCO, CDO, GraDs
 <br>Version control: Git
 <br>Editing: LaTeX
 <br>Learning: WRF and high performance computing
-<br>Languages: English (Fluent), Spanish (Mother tongue), Portuguese (Basic)
+<br>Languages:  Spanish (Native), English (Fluent), Portuguese (Basic)
 
 ## PUBLICATIONS
 
