@@ -5,7 +5,7 @@ subtitle: A bit about my (academic) self
 published: true
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download CV here</strong></a> </span>
 <br>
 
 I'm a climate scientist particularly interested in understanding the physical mechanisms of recent and future climate variation in Mexico, North and Central America. I aim at carrying out comprehensive studies by using a range of observational and remote-sensing datasets and modelling experiments of various complexities with a strong theoretical component.
@@ -14,7 +14,7 @@ I'm a climate scientist particularly interested in understanding the physical me
 - Dynamics of low-level jets
 - Ocean-atmosphere interactions 
 - Predictability of regional rainfall and temperature extreme events
-- Ongoing and future climate responses to changes in anthropogenic forcing (e.g. aerosols and GHG emissions)
+- Climate response to changes in anthropogenic forcing (e.g. aerosols and GHG emissions)
 - Numerical modelling
 
 ## EDUCATION
