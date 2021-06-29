@@ -1,18 +1,18 @@
 ---
 layout: page
 title: Résumé
-subtitle: Dr Ivonne García Martínez <br> - - - A bit about my [academic] self - - - 
+subtitle: Dr Ivonne García Martínez 
 published: true
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download CV here</strong></a> </span>
 <br>
 
-I'm a climate scientist particularly interested in understanding the physical mechanisms of recent and future climate variation in Mexico, North and Central America. I aim at carrying out comprehensive studies by using a range of observational and remote-sensing datasets and modelling experiments of various complexities with a strong theoretical component.
+I'm a climate and ocean scientist particularly interested in understanding the physical mechanisms of recent and future climate variation in Mexico, North and Central America. I aim at carrying out comprehensive studies by using a range of observational and remote-sensing datasets and modelling experiments of various complexities with a strong theoretical component.
 
 ## RESEARCH INTERESTS
-- Dynamics of low-level jets
-- Ocean-atmosphere interactions 
+- Ocean-atmosphere interactions
+- Dynamics of low-level jets 
 - Predictability of regional rainfall and temperature extreme events
 - Climate response to changes in anthropogenic forcing (e.g. aerosols and GHG emissions)
 - Numerical modelling
@@ -69,14 +69,5 @@ Tejeda Martínez, A., Fitzjarrald, D. R., Pérez Méndez, M., Domínguez Eusebio
 Tejeda Martínez, A., ```García-Martínez, I. M.```, Méndez-Pérez, I. R., Miranda-Miranda, U., & López-Méndez, J. V. (2015). Radiación solar en México (Solar radiation in Mexico). [Prontuario solar de México, 51-68](http://ww.ucol.mx/content/publicacionesenlinea/adjuntos/Prontuario-solar-de-Mexico-(noviembre-de-2015)_6.pdf). Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-Universidad Veracruzana, Colima.
 
 Tejeda Martínez, A., ```García-Martínez, I. M.```, Gómez-Azpeitia, G., Méndez-Pérez, I. R., & González-Viveros, P.J. (2015). Procedimientos simples para la estimación de radiación Solar en México (Simple procedures for the estimation of solar radiation in Mexico). [Prontuario solar de México, 103-112](http://ww.ucol.mx/content/publicacionesenlinea/adjuntos/Prontuario-solar-de-Mexico-(noviembre-de-2015)_6.pdf). Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-Universidad Veracruzana, Colima.
-
-
-
-<!-- ## EXPERIENCE
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used -->  
-
 
 
