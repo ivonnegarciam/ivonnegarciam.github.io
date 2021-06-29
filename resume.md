@@ -21,7 +21,7 @@ I'm a climate scientist particularly interested in understanding the physical me
 
 ```The University of Edinburgh, UK. ```<span style="float: right; ">2016-2020</span>  
 **PhD in Atmospheric and Environmental Sciences**  
-```Thesis:``` Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing.
+```Thesis:``` Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing. [PDF](https://drive.google.com/file/d/1f41GhibsxOe2MVPTxbx3On74qJwC4I0T/view?usp=sharing)
 <br>```Advisor:``` Dr Massimo Bollasina. 
  
 ```CICESE, México.``` <span style="float: right; ">2012-2015</span>  
