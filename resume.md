@@ -48,7 +48,7 @@ Graduated by high GPA.
 
 
 ## SKILLS
-Programming: python, matlab, bash, NCO, CDO, GraDs
+Programming: python, matlab, shell, NCO, CDO, GraDs
 <br>Version control: Git
 <br>Editing: LaTeX
 <br>Learning: WRF and high performance computing
