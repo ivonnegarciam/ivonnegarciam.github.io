@@ -56,7 +56,7 @@ Programming: python, matlab, shell, NCO, CDO, GraDs
 
 ## PUBLICATIONS
 
-```García-Martínez, I. M.``` and Bollasina, M. A. (2021). Identifying the evolving human imprint on heat wave trends over the United States and Mexico. Accepted in Environmental Research Letters.
+```García-Martínez, I. M.``` and Bollasina, M. A. (2021). [Identifying the evolving human imprint on heat wave trends over the United States and Mexico](https://iopscience.iop.org/article/10.1088/1748-9326/ac1edb). Environmental Research Letters.
 
 ```García-Martínez, I. M.,``` Bollasina, M. A., and Undorf, S. (2020). [Strong large-scale climate
 response to North American sulphate aerosols in CESM](https://iopscience.iop.org/article/10.1088/1748-9326/abbe45). Environmental Research Letters.
