@@ -74,6 +74,12 @@ Coding: Python, Matlab, shell, NCO, CDO, GraDs, high performance computing
 <br>Languages:  Spanish (Native), English (Fluent), Portuguese (Basic)
 
 ## TEACHING EXPERIENCE
+```Climatology and Climate Change.``` <span style="float: right; ">2022</span>  
+[Postgraduate program in Physical Oceanography](https://posgrados.cicese.mx/oceanografiafisica). Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE). Ensenada, México. Lecturer.
 
+```Earth Modelling and Prediction.``` <span style="float: right; ">2016-2018</span>  
+[School of GeoSciences](https://www.ed.ac.uk/geosciences). The University of Edinburgh. Edinburgh, UK. Teaching assistant.
 
 ## INVITED TALKS
+```Weather of 2021 in the Context of the Long-Term Climate Change.``` "[Understanding the Weather of 2021"](https://www.rmets.org/event/virtual-understanding-weather-2021) virtual event of the Royal Meteorological Society of the UK. 26 February 2022.
+
