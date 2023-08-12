@@ -51,10 +51,13 @@ Tejeda Martínez, A., ```García-Martínez, I. M.```, Méndez-Pérez, I. R., Mir
 Tejeda Martínez, A., ```García-Martínez, I. M.```, Gómez-Azpeitia, G., Méndez-Pérez, I. R., & González-Viveros, P.J. (2015). Procedimientos simples para la estimación de radiación Solar en México (Simple procedures for the estimation of solar radiation in Mexico). [Prontuario solar de México, 103-112](http://ww.ucol.mx/content/publicacionesenlinea/adjuntos/Prontuario-solar-de-Mexico-(noviembre-de-2015)_6.pdf). Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-Universidad Veracruzana, Colima.
 
 ## CURRENT RESEARCH PROJECTS
+### Ocean-atmosphere coupled modelling
+In my current postdoctoral position at the [Physical Oceanography Department](https://oceanografia.cicese.mx/), in CICESE, Mexico, I'm working on the development and implementation of a high resolution (3 km) coupled ocean-atmosphere model (NEMO-OASIS-WRF) to study the interchange of mass, momentum, and energy between oceanic mesoscale eddies and strong northerly winds (Nortes) over the Gulf of Mexico. This work is part of the multi-disciplinary project [Phytoplankton blooms in a Loop Current eddy](https://gliders.cicese.mx/phytbloomeddy).
 
+### Climate projections of extreme events 
+Since November 2022, I'm a Remote Visitor Researcher at the [School of GeoSciences](https://www.ed.ac.uk/geosciences) of the University of Edinburgh, UK. There, I'm working in collaboration with Dr [Massimo Bollasina](https://www.research.ed.ac.uk/en/persons/massimo-bollasina) on characterising compound (hot and dry) extreme events in Mexico for present and future climates using high-resolution GCMs.
 
 ## ACADEMIC EMPLOYMENT
-
 ```Postdoctoral researcher - CICESE, México.``` <span style="float: right; ">2021-    </span>  <br>Department of Physical Oceanography.  
 
 ```Research assistant - CICESE, México.``` <span style="float: right; ">2015-2016</span>  
@@ -71,5 +74,6 @@ Coding: Python, Matlab, shell, NCO, CDO, GraDs, high performance computing
 <br>Languages:  Spanish (Native), English (Fluent), Portuguese (Basic)
 
 ## TEACHING EXPERIENCE
+
 
 ## INVITED TALKS
