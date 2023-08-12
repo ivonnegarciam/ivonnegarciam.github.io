@@ -18,7 +18,6 @@ I'm a climate and ocean scientist particularly interested in understanding the p
 - Numerical modelling of the ocean and the atmosphere
 
 ## EDUCATION
-
 ```The University of Edinburgh, UK. ```<span style="float: right; ">2016-2020</span>  
 **PhD in Atmospheric and Environmental Sciences**  
 ```Thesis:``` Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing. [[PDF]](https://era.ed.ac.uk/handle/1842/38003)
@@ -33,26 +32,6 @@ I'm a climate and ocean scientist particularly interested in understanding the p
 **BSc in Atmospheric Sciences**  
 Graduated by high GPA.
 <br>```Advisor:``` Dr Adalberto Tejeda Martínez.
-
-## ACADEMIC EMPLOYMENT
-
-```Postdoctoral researcher - CICESE, México.``` <span style="float: right; ">2021-    </span>  <br>Department of Physical Oceanography.  
-
-
-```Research assistant - CICESE, México.``` <span style="float: right; ">2015-2016</span>  
- Department of Physical Oceanography. 
-
-
-```Research assistant - Universidad Veracruzana, México.``` <span style="float: right; ">2011-2012</span>  
- Applied Climatology Group.  
-
-
-## SKILLS
-Coding: Python, Matlab, shell, NCO, CDO, GraDs, high performance computing
-<br>Modelling: WRF (atmospheric model), NEMO (ocean model)
-<br>Version control: Git
-<br>Editing: LaTeX
-<br>Languages:  Spanish (Native), English (Fluent), Portuguese (Basic)
 
 ## PUBLICATIONS
 Zavala Sansón, L, ```García-Martínez, I. M.``` and Sheinbaum Pardo, J. (2023). Nonlinear surface Ekman effects
@@ -71,4 +50,26 @@ Tejeda Martínez, A., ```García-Martínez, I. M.```, Méndez-Pérez, I. R., Mir
 
 Tejeda Martínez, A., ```García-Martínez, I. M.```, Gómez-Azpeitia, G., Méndez-Pérez, I. R., & González-Viveros, P.J. (2015). Procedimientos simples para la estimación de radiación Solar en México (Simple procedures for the estimation of solar radiation in Mexico). [Prontuario solar de México, 103-112](http://ww.ucol.mx/content/publicacionesenlinea/adjuntos/Prontuario-solar-de-Mexico-(noviembre-de-2015)_6.pdf). Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-Universidad Veracruzana, Colima.
 
+## CURRENT RESEARCH PROJECTS
 
+
+## ACADEMIC EMPLOYMENT
+
+```Postdoctoral researcher - CICESE, México.``` <span style="float: right; ">2021-    </span>  <br>Department of Physical Oceanography.  
+
+```Research assistant - CICESE, México.``` <span style="float: right; ">2015-2016</span>  
+ Department of Physical Oceanography. 
+
+```Research assistant - Universidad Veracruzana, México.``` <span style="float: right; ">2011-2012</span>  
+ Applied Climatology Group.  
+
+## SKILLS
+Coding: Python, Matlab, shell, NCO, CDO, GraDs, high performance computing
+<br>Modelling: WRF (atmospheric model), NEMO (ocean model)
+<br>Version control: Git
+<br>Editing: LaTeX
+<br>Languages:  Spanish (Native), English (Fluent), Portuguese (Basic)
+
+## TEACHING EXPERIENCE
+
+## INVITED TALKS
