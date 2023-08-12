@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: Dr Ivonne García Martínez 
+subtitle: Ivonne García Martínez, PhD
 published: true
 ---
 
@@ -15,13 +15,13 @@ I'm a climate and ocean scientist particularly interested in understanding the p
 - Dynamics of low-level jets 
 - Predictability of regional rainfall and temperature extreme events
 - Climate response to changes in anthropogenic forcing (e.g. aerosols and GHG emissions)
-- Numerical modelling
+- Numerical modelling of the ocean and the atmosphere
 
 ## EDUCATION
 
 ```The University of Edinburgh, UK. ```<span style="float: right; ">2016-2020</span>  
 **PhD in Atmospheric and Environmental Sciences**  
-```Thesis:``` Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing. [[PDF]](https://drive.google.com/file/d/1f41GhibsxOe2MVPTxbx3On74qJwC4I0T/view?usp=sharing)
+```Thesis:``` Mechanisms of climate variation in the broader Mexican-United States region: the role of atmospheric circulation and anthropogenic forcing. [[PDF]](https://era.ed.ac.uk/handle/1842/38003)
 <br>```Advisor:``` Dr Massimo Bollasina. 
  
 ```CICESE, México.``` <span style="float: right; ">2012-2015</span>  
@@ -48,10 +48,10 @@ Graduated by high GPA.
 
 
 ## SKILLS
-Programming: python, matlab, shell, NCO, CDO, GraDs
+Coding: Python, Matlab, shell, NCO, CDO, GraDs, high performance computing
+<br>Modelling: WRF (atmospheric model), NEMO (ocean model)
 <br>Version control: Git
 <br>Editing: LaTeX
-<br>Learning: WRF and high performance computing
 <br>Languages:  Spanish (Native), English (Fluent), Portuguese (Basic)
 
 ## PUBLICATIONS
