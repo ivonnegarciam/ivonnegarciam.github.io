@@ -80,6 +80,11 @@ Coding: Python, Matlab, shell, NCO, CDO, GraDs, high performance computing
 ```Earth Modelling and Prediction.``` <span style="float: right; ">2016-2018</span>  
 [School of GeoSciences](https://www.ed.ac.uk/geosciences). The University of Edinburgh. Edinburgh, UK. Teaching assistant.
 
+## STUDENT SUPERVISION
+```Cuauhtli López```. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos.
+<br>```Liliana Sánchez```. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos.
+<br>```Melissa Quiroga```. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos.
+
 ## INVITED TALKS
 ```Weather of 2021 in the Context of the Long-Term Climate Change.``` "[Understanding the Weather of 2021"](https://www.rmets.org/event/virtual-understanding-weather-2021) virtual event of the Royal Meteorological Society of the UK. 26 February 2022.
 
