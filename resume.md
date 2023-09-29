@@ -34,8 +34,8 @@ Graduated by high GPA.
 <br>```Advisor:``` Dr Adalberto Tejeda Martínez.
 
 ## PUBLICATIONS
-Zavala Sansón, L, ```García-Martínez, I. M.``` and Sheinbaum Pardo, J. (2023). Nonlinear surface Ekman effects
-on cyclonic and anticyclonic vortices. Journal of Fluid Mechanics. In press.
+Zavala Sansón, L, ```García-Martínez, I. M.``` and Sheinbaum Pardo, J. (2023). [Nonlinear surface Ekman effects
+on cyclonic and anticyclonic vortices](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/nonlinear-surface-ekman-effects-on-cyclonic-and-anticyclonic-vortices/55A2A4B7CD9645EB2BE6183DF6A594A8). Journal of Fluid Mechanics.
 
 ```García-Martínez, I. M.``` and Bollasina, M. A. (2021). [Identifying the evolving human imprint on heat wave trends over the United States and Mexico](https://iopscience.iop.org/article/10.1088/1748-9326/ac1edb). Environmental Research Letters.
 
