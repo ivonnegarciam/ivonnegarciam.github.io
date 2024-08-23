@@ -87,9 +87,10 @@ Coding: Python, Matlab, shell, NCO, CDO, GraDs, High Performance Computing
 [School of GeoSciences](https://www.ed.ac.uk/geosciences). The University of Edinburgh. Edinburgh, UK. Teaching assistant.
 
 ## STUDENT SUPERVISION
-```Cuauhtli López```. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos.
-<br>```Liliana Sánchez```. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos.
-<br>```Melissa Quiroga```. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos.
+```Citlalli Romero```. Marine heatwaves in the Caribbean Sea: Vertical structure and drivers. PhD in Physical Oceanography. CICESE. Supervisors: Paulina Cetina and Ivonne García. *Current student. 
+<br>```Liliana Sánchez```. Recent trends of moisture transport from the Caribbean Low-Level Jet and its relationship with summer rainfall in Mexico. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos. Degree obtained in April 2024.
+<br>```Cuauhtli López```. Estimation of decadal trends for extreme event ETCCDI indices for the period 1981-2020. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos. Degree obtained in April 2024.
+
 
 ## INVITED TALKS
 ```Weather of 2021 in the Context of the Long-Term Climate Change.``` "[Understanding the Weather of 2021"](https://www.rmets.org/event/virtual-understanding-weather-2021) virtual event of the Royal Meteorological Society of the UK. 26 February 2022.
