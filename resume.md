@@ -65,7 +65,7 @@ I'm currently working on the development and implementation of an eddy-resolving
 ### Climate projections of extreme events 
 Since November 2022, I'm a Remote Visitor Researcher at the [School of GeoSciences](https://www.ed.ac.uk/geosciences) of the University of Edinburgh, UK. There, I'm working in collaboration with Dr [Massimo Bollasina](https://www.research.ed.ac.uk/en/persons/massimo-bollasina) on characterising compound (hot and dry) extreme events in Mexico for present and future climates using high-resolution GCMs.
 
-### Dynamical downscalling of future climate over the Caribbean Sea
+### Dynamical downscalling of future climate
 This is a project in colaboration with Dr Paulina Cetina (CICESE, Mexico). The main objective is the implementation of dynamically-downscalled ocean regional models (e.g. NEMO, CROCO) for the Caribbean Sea. The project involves varios stages, from the identification of the relevant processes to represent, the evaluation and selection of CMIP models to the implementation and validation of the downscalling techniques used. The ultimate goal is to help devise science-informed strategies for marine resource management and ecological aplications.     
 
 ## ACADEMIC EMPLOYMENT
@@ -87,7 +87,7 @@ Coding: Python, Matlab, shell, NCO, CDO, GraDs, High Performance Computing
 <br>Languages:  Spanish (Native), English (Fluent), Portuguese (Basic)
 
 ## TEACHING EXPERIENCE
-```Climatology and Climate Change.``` <span style="float: right; ">2022</span>  
+```Climatology and Climate Change.``` <span style="float: right; ">2022, 2025</span>  
 [Postgraduate program in Physical Oceanography](https://posgrados.cicese.mx/oceanografiafisica). Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE). Ensenada, México. Lecturer.
 
 ```Earth Modelling and Prediction.``` <span style="float: right; ">2016-2018</span>  
