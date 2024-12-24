@@ -8,6 +8,9 @@ published: true
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download CV here</strong></a> </span>
 <br>
 
+<span style="float: right; font-size:30px; ">Last update: Dec 2024</span>
+
+
 I'm a climate and ocean scientist particularly interested in understanding the physical mechanisms of recent and future climate variation in Mexico, North and Central America. I aim at carrying out comprehensive studies by using a range of observational and remote-sensing datasets, numerical modelling experiments and a strong theoretical component.
 
 ## RESEARCH INTERESTS
