@@ -94,6 +94,8 @@ Coding: Python, Matlab, shell, NCO, CDO, GraDs, High Performance Computing
 [School of GeoSciences](https://www.ed.ac.uk/geosciences). The University of Edinburgh. Edinburgh, UK. Teaching assistant.
 
 ## STUDENT SUPERVISION
+```Grethel Gutiérrez```. Dynamics of rapid intensification of tropical cyclones over the Eastern Tropical Pacific. PhD in Physical Oceanography. CICESE. Supervisor: Ivonne García. *Current student.
+```Michel Gómez```. Modulation of marine heat and cold waves by the Caribbean Low-Level Jet. MSc in Physical Oceanography. CICESE. Supervisors: Ivonne García and Paulina Cetina. *Current student. 
 ```Citlalli Romero```. Marine heatwaves in the Caribbean Sea: Vertical structure and drivers. PhD in Physical Oceanography. CICESE. Supervisors: Paulina Cetina and Ivonne García. *Current student. 
 <br>```Liliana Sánchez```. Recent trends of moisture transport from the Caribbean Low-Level Jet and its relationship with summer rainfall in Mexico. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos. Degree obtained in April 2024.
 <br>```Cuauhtli López```. Estimation of decadal trends for extreme event ETCCDI indices for the period 1981-2020. BSc in Atmospheric Sciences. Universidad Veracruzana. Supervisors: Ivonne García and Claudio Hoyos. Degree obtained in April 2024.
