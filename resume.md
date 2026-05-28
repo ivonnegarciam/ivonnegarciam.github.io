@@ -63,8 +63,7 @@ Tejeda Martínez, A., ```García-Martínez, I. M.```, Gómez-Azpeitia, G., Ménd
 ```García-Martínez, I. M.``` and Bollasina, M. Escalating risks of compound heat wave-drought
 events in Mexico and the United States: future projections and population exposure. To be sumitted to Earth's Future. 
 
-Zúñiga Villareal, C., Cavazos, T. ```García-Martínez, I. M.```, Raymond, C. y Gershunov, S. Unraveling the
-synoptic drivers of heatwaves in Northern Mexico and the southwestern United States. To be submitted to Climate Dynamics (MSc student paper).
+Zúñiga Villareal, C., Cavazos, T., ```García-Martínez, I. M.```, Raymond, C. and Gershunov, S. Unraveling the synoptic drivers of heatwaves in Northern Mexico and the southwestern United States. To be submitted to Climate Dynamics (MSc student paper).
 
 ```García-Martínez, I. M.``` Jouanno, J., Rodríguez, J., Munguía, D., García, B., Jiménez, K. and Sheinbaum, J. Dynamical response of a Loop Current Eddy to strong wind forcing in high-resolution coupled ocean-atmosphere simulations. To be submitted to Journal of Geophysical Research: Oceans. 
 
@@ -73,17 +72,22 @@ Romero González, C., Cetina-Heredia, P., ```García-Martínez, I. M.``` and Ben
 Rodríguez Solís, J. L., ```García-Martínez, I. M.``` and Sheinbaum J. From prediction to process understanding: the rapid intensification of hurricane Otis in coupled ocean-atmosphere simulations. In preparation. 
 
 ## CURRENT RESEARCH PROJECTS
-### Ocean-Atmosphere Coupled Modelling
-This project involves the development and implementation of an eddy-resolving (3 km) coupled ocean-atmosphere model (NEMO-OASIS-WRF) at the [Physical Oceanography Department](https://oceanografia.cicese.mx/), in CICESE, Mexico. The main objective is to study the interchange of mass, momentum, and energy between oceanic mesoscale eddies and strong northerly winds (Nortes) over the Gulf of Mexico. This work is part of the multi-disciplinary project [Phytoplankton blooms in a Loop Current eddy](https://gliders.cicese.mx/phytbloomeddy), in close colaboration with Dr [Dr Julien Jouanno](https://www.legos.omp.eu/author/julien-jouanno/).
-
-### Climate Projections of Extreme Events 
-Since November 2022, I'm a Remote Visitor Researcher at the [School of GeoSciences](https://www.ed.ac.uk/geosciences) of the University of Edinburgh, UK. There, I'm working in collaboration with [Dr Massimo Bollasina](https://www.research.ed.ac.uk/en/persons/massimo-bollasina) on characterising compound (hot and dry) extreme events in Mexico for present and future climates using high-resolution GCMs.
+### Climate Projections of Compound Extreme Events 
+Since November 2022, I'm a Remote Visitor Researcher at the [School of GeoSciences](https://www.ed.ac.uk/geosciences) of the University of Edinburgh, UK. There, I'm working in collaboration with [Dr Massimo Bollasina](https://www.research.ed.ac.uk/en/persons/massimo-bollasina). We characterize compound hot-dry extremes in Mexico for recent (1981–2010) and future (2021–2050) periods using high-resolution (20–50 km) HighResMIP simulations under SSP5-8.5, focusing on atmospheric heatwaves and extreme droughts. We analyze frequency, duration, intensity, and the roles of temperature, precipitation, and evapotranspiration, and estimate population exposure to these high-mortality events to inform adaptation planning.
 
 ### Rapid Intensification of Tropical Cyclones
-This is a project in colaboration with Dr José Luis Rodríguez. This study employs a systematic, process-based approach to diagnose the physical mechanisms controlling tropical cyclone rapid intensification (RI) in the Eastern Tropical Pacific in coupled ocean-atmosphere alongside atmosphere-only simulations. The analysis focuses on model performance, the evolution of sea-surface temperature and oceanic heat loss, and identifiable environmental conditions. The goal is to identify why some hurricanes intensify fast while others do it gradually under similar large-scale conditions, providing a mechanistic basis for improving coupled-model forecasts of these high-impact events.
+This is a project in colaboration with Dr José Luis Rodríguez and PhD student Grethel Gutiérrez. This study employs a systematic, process-based approach to diagnose the physical mechanisms controlling tropical cyclone rapid intensification (RI) in the Eastern Tropical Pacific in coupled ocean-atmosphere alongside atmosphere-only simulations. The analysis focuses on model performance, the evolution of sea-surface temperature and oceanic heat loss, and identifiable environmental conditions. The goal is to identify why some hurricanes intensify fast while others do it gradually under similar large-scale conditions, providing a mechanistic basis for improving coupled-model forecasts of these high-impact events.
 
+### Ocean-Atmosphere Coupled Modelling
+This project involves the development and implementation of an eddy-resolving (3 km) coupled ocean-atmosphere model (NEMO-OASIS-WRF) at the [Physical Oceanography Department](https://oceanografia.cicese.mx/), in CICESE, Mexico. The main objective is to study the interchange of mass, momentum, and energy between oceanic mesoscale eddies and strong northerly winds (Nortes) over the Gulf of Mexico. This work is part of the multi-disciplinary project [Phytoplankton blooms in a Loop Current eddy](https://gliders.cicese.mx/phytbloomeddy), in close colaboration with Dr [Dr Julien Jouanno](https://www.legos.omp.eu/author/julien-jouanno/), [Dr Julio Sheinbaum](https://jsheinbaum.github.io/)  and Dr José Luis Rodríguez.
+
+### Marine Heat Waves and Cold Spells in the Caribbean Sea
+In collaboration with [Dr Paulina Cetina](https://www.cicese.edu.mx/investigacion/personal_academico/3599) at CICESE, I co-supervise two graduate students working on marine heatwaves (MHWs) in the Caribbean Sea: Citlalli Romero (PhD) is analyzing the vertical structure and drivers of MHWs and Michel Gómez (MSc) is exploring the modulation of marine heat and cold spells by the Caribbean Low-Level Jet. Our research aims to understand the physical mechanisms governing the development, evolution, and vertical expression of thermal extremes in the Caribbean Sea, as well as their ecological implications.
+
+<!-- 
 ### Dynamical Downscalling of Future Climate
-This is a project in colaboration with [Dr Paulina Cetina](https://www.cicese.edu.mx/investigacion/personal_academico/3599). The main objective is the implementation of dynamically-downscalled ocean regional models (e.g. NEMO, CROCO) for the Caribbean Sea. The project involves varios stages, from the identification of the relevant processes to represent, the evaluation and selection of CMIP models to the implementation and validation of the downscalling techniques used. Of particular interest for us is the aplication of these modelling tools for better undertand and predict the development and evolution of Marine Heat Waves and its potential ecological impacts. 
+This is a project in colaboration with [Dr Paulina Cetina](https://www.cicese.edu.mx/investigacion/personal_academico/3599). The main objective is the implementation of dynamically-downscalled ocean regional models (e.g. NEMO, CROCO) for the Caribbean Sea. The project involves varios stages, from the identification of the relevant processes to represent, the evaluation and selection of CMIP models to the implementation and validation of the downscalling techniques used. Of particular interest for us is the aplication of these modelling tools for better undertand and predict the development and evolution of Marine Heat Waves and its potential ecological impacts.
+-->
 
 ## ACADEMIC EMPLOYMENT
 ```Associate researcher - CICESE, México.``` <span style="float: right; ">2024-    </span>  <br>Department of Physical Oceanography.
