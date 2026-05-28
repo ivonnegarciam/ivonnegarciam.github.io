@@ -11,12 +11,13 @@ published: true
 I'm a climate and ocean scientist particularly interested in understanding the physical mechanisms of recent and future climate variation in Mexico, North and Central America. I aim at carrying out comprehensive studies by using a range of observational and remote-sensing datasets, numerical modelling experiments and a strong theoretical component.
 
 ## RESEARCH INTERESTS
-- Ocean-atmosphere interactions
-- Numerical modelling of the ocean and the atmosphere
-- Dynamics of low-level jets 
-- Predictability of regional rainfall and temperature extreme events
-- Climate response to changes in anthropogenic forcing (e.g. aerosols and GHG emissions)
-- Role of internal variability on regional climate variations
+- Individual and compound climate extremes: atmospheric and marine heatwaves, droughts
+- Predictability of extreme events in a changing climate
+- Regional ocean–atmosphere coupled modelling (NEMO–OASIS-WRF, CROCO-OASIS-WRF)
+- Rapid intensification of tropical cyclones
+- Climate response to anthropogenic forcing (aerosols, GHGs)
+- Role of internal variability in regional climate variations
+- Dynamics of low-level jets and their role in regional climate
 
 
 ## EDUCATION
