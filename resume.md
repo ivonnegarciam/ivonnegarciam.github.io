@@ -37,9 +37,7 @@ Graduated by high GPA.
 <br>```Advisor:``` Dr Adalberto Tejeda Martínez.
 
 ## PUBLICATIONS
-```García-Martínez, I. M.``` and Bollasina, M. Projected compound hot and dry events over Mexico in HighResMIP GCMs. To be sumitted to Weather and Climate Extremes. 
-
-```García-Martínez, I. M.``` Jouanno, J., Rodríguez, J., Munguía, D., García, B., Jiménez, K. and Sheinbaum, J. Dynamical response of a Loop Current Eddy to strong wind forcing in high-resolution coupled ocean-atmosphere simulations. To be submitted to Journal of Geophysical Research: Oceans. 
+Raymond, C., ```Garcı́a-Martı́nez, I. M.```, Rogers, C. D. W., Zscheischler, J., Chen, Y., Han, W., Libonati, R., Simpson, N. P., and White, C. J. (2026). Compound weather and climate events in 2025. Accepted for publication in Nature Reviews Earth & Environment.
 
 ```García-Martínez, I. M.``` Sheinbaum, J., Zavala Sansón, L., Jouanno, J., and Pallàs Sanz, E. (2025). [Upper-ocean response to strong wind forcing in a Loop Current Eddy](https://journals.ametsoc.org/view/journals/phoc/55/12/JPO-D-25-0022.1.xml). Journal of Physical Oceanography. 
 
@@ -60,6 +58,19 @@ Tejeda Martínez, A., Fitzjarrald, D. R., Pérez Méndez, M., Domínguez Eusebio
 Tejeda Martínez, A., ```García-Martínez, I. M.```, Méndez-Pérez, I. R., Miranda-Miranda, U., & López-Méndez, J. V. (2015). Radiación solar en México (Solar radiation in Mexico). [Prontuario solar de México, 51-68](http://ww.ucol.mx/content/publicacionesenlinea/adjuntos/Prontuario-solar-de-Mexico-(noviembre-de-2015)_6.pdf). Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-Universidad Veracruzana, Colima.
 
 Tejeda Martínez, A., ```García-Martínez, I. M.```, Gómez-Azpeitia, G., Méndez-Pérez, I. R., & González-Viveros, P.J. (2015). Procedimientos simples para la estimación de radiación Solar en México (Simple procedures for the estimation of solar radiation in Mexico). [Prontuario solar de México, 103-112](http://ww.ucol.mx/content/publicacionesenlinea/adjuntos/Prontuario-solar-de-Mexico-(noviembre-de-2015)_6.pdf). Editors: Gómez-Azpeitia, G. & Tejeda Martínez, A. Universidad de Colima-Universidad Veracruzana, Colima.
+
+### MANUSCRIPTS UNDER REVIEW AND IN PREPARATION 
+```García-Martínez, I. M.``` and Bollasina, M. Escalating risks of compound heat wave-drought
+events in Mexico and the United States: future projections and population exposure. To be sumitted to Earth's Future. 
+
+Zúñiga Villareal, C., Cavazos, T. ```García-Martínez, I. M.```, Raymond, C. y Gershunov, S. Unraveling the
+synoptic drivers of heatwaves in Northern Mexico and the southwestern United States. To be submitted to Climate Dynamics (MSc student paper).
+
+```García-Martínez, I. M.``` Jouanno, J., Rodríguez, J., Munguía, D., García, B., Jiménez, K. and Sheinbaum, J. Dynamical response of a Loop Current Eddy to strong wind forcing in high-resolution coupled ocean-atmosphere simulations. To be submitted to Journal of Geophysical Research: Oceans. 
+
+Romero González, C., Cetina-Heredia, P., ```García-Martínez, I. M.``` and Benthuysen, J. Below the Surface: tracing the depth footprint of Marine Heatwaves in the Caribbean. To be submitted to Ocean Science (PhD student paper).
+
+Rodríguez Solís, J. L., ```García-Martínez, I. M.``` and Sheinbaum J. From prediction to process understanding: the rapid intensification of hurricane Otis in coupled ocean-atmosphere simulations. In preparation. 
 
 ## CURRENT RESEARCH PROJECTS
 ### Ocean-Atmosphere Coupled Modelling
